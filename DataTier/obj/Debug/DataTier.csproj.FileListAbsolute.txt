@@ -1,0 +1,6 @@
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Debug\DataTier.dll
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Debug\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Debug\DataTier.dll
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Debug\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Debug\DataTier.dll.config

@@ -1,0 +1,9 @@
+D:\Downloads\NeighborhoodInformant\LogicTier\obj\Release\LogicTier.csprojResolveAssemblyReference.cache
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Release\UsersDB.mdf
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Release\UsersDB_log.ldf
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Release\LogicTier.dll
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Release\LogicTier.pdb
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Release\DataTier.dll
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Release\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\LogicTier\obj\Release\LogicTier.dll
+D:\Downloads\NeighborhoodInformant\LogicTier\obj\Release\LogicTier.pdb

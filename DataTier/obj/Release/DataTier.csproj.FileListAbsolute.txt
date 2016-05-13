@@ -1,0 +1,8 @@
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Release\UsersDB.mdf
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Release\UsersDB_log.ldf
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Release\DataTier.dll.config
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Release\DataTier.dll
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Release\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Release\DataTier.csprojResolveAssemblyReference.cache
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Release\DataTier.dll
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Release\DataTier.pdb
